@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\source\\gameutils\\private\\componentmediator\\coordinatorcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\maykol\\projects\\falsegod\\intermediate\\build\\win64\\x64\\falsegod\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\intermediate\\build\\win64\\x64\\unrealgame\\development\\gameutils\\definitions.gameutils.h",
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\source\\gameutils\\public\\componentmediator\\coordinatorcomponent.h",
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\intermediate\\build\\win64\\unrealgame\\inc\\gameutils\\uht\\coordinatorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

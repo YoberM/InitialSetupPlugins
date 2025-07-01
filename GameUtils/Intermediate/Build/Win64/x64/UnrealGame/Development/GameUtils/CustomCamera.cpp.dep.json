@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\source\\gameutils\\private\\playercontroller\\customcamera.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\maykol\\projects\\falsegod\\intermediate\\build\\win64\\x64\\falsegod\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\intermediate\\build\\win64\\x64\\unrealgame\\development\\gameutils\\definitions.gameutils.h",
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\source\\gameutils\\public\\playercontroller\\customcamera.h",
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\intermediate\\build\\win64\\unrealgame\\inc\\gameutils\\uht\\customcamera.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\springarmcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

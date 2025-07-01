@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\source\\gameutils\\private\\health\\healthcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\maykol\\projects\\falsegod\\intermediate\\build\\win64\\x64\\falsegodeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameutils\\definitions.gameutils.h",
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\source\\gameutils\\public\\health\\healthcomponent.h",
+            "c:\\maykol\\projects\\falsegod\\plugins\\gameutils\\intermediate\\build\\win64\\unrealeditor\\inc\\gameutils\\uht\\healthcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

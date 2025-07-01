@@ -1,0 +1,13 @@
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\ComponentMediator\CoordinatorComponent.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Interaction\InteractableInterface.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Managers\Event\EventManagerSubsystem.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Interaction\InteractionComponent.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Inventory\InventoryComponent.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Inventory\Item.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Scanner\ScannerComponent.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Projectiles\Projectile.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\PlayerController\PlayerCameraController.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\PlayerController\CustomCamera.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\PlayerController\PointerFeedback.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Scanner\ScannableInterface.h
+C:\Maykol\Projects\FALSEGOD\Plugins\GameUtils\Source\GameUtils\Public\Health\HealthComponent.h

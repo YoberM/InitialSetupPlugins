@@ -1,0 +1,36 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GameUtils.cpp.obj": [
+			"CoordinatorComponent.gen.cpp.obj",
+			"CustomCamera.gen.cpp.obj",
+			"EventManagerSubsystem.gen.cpp.obj",
+			"GameUtils.init.gen.cpp.obj",
+			"HealthComponent.gen.cpp.obj",
+			"InteractableInterface.gen.cpp.obj",
+			"InteractionComponent.gen.cpp.obj",
+			"InventoryComponent.gen.cpp.obj",
+			"Item.gen.cpp.obj",
+			"PlayerCameraController.gen.cpp.obj",
+			"PointerFeedback.gen.cpp.obj",
+			"Projectile.gen.cpp.obj",
+			"ScannableInterface.gen.cpp.obj",
+			"ScannerComponent.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CoordinatorComponent.cpp.obj",
+			"GameUtils.cpp.obj",
+			"HealthComponent.cpp.obj",
+			"InteractableInterface.cpp.obj",
+			"InteractionComponent.cpp.obj",
+			"InventoryComponent.cpp.obj",
+			"Item.cpp.obj",
+			"EventManagerSubsystem.cpp.obj",
+			"CustomCamera.cpp.obj",
+			"PlayerCameraController.cpp.obj",
+			"PointerFeedback.cpp.obj",
+			"Projectile.cpp.obj",
+			"ScannableInterface.cpp.obj",
+			"ScannerComponent.cpp.obj"
+		]
+	}
+}
